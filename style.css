@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+}
+.nav{
+    background-color: rgb(97, 123, 139);
+    height: 900px;
+    width: 200px;
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    background-color: greenyellow;
+    height: 150px;
+    width: 1050px;
+}
+.article{
+    background-color: white;
+    height: 600px;
+    width: 1050px;
+}
+.footer{
+    background-color: greenyellow;
+    height: 150px;
+    width: 1050px;
+}
